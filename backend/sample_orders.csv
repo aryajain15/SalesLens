@@ -1,0 +1,9 @@
+customer_id,order_date,category,amount
+C001,2026-07-03,Electronics,4200
+C001,2026-09-14,Books,350
+C002,2026-08-21,Fashion,1800
+C003,2026-01-10,Books,200
+C004,2026-09-30,Electronics,9800
+C004,2026-10-05,Home,2300
+C005,2026-05-17,Fashion,900
+C002,2026-10-01,Home,1500
